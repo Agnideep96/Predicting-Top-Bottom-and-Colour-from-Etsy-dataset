@@ -15,7 +15,8 @@ Furthermore, it's worth noting that the Random Forest and KNN models employed in
 ## Technologies Used
 
 - Machine Learning
-- TensorFlow (for color prediction)
+-  Deep Learning TensorFlow (for color prediction)
+-  ResNet50
 - Random Forest
 - K-Nearest Neighbour
 - Python
@@ -27,10 +28,6 @@ Furthermore, it's worth noting that the Random Forest and KNN models employed in
 3. Run the provided scripts to train and evaluate the machine learning models.
 4. Explore the project's code and data to gain insights into the methodology and results.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to dive into the code and results contained within this repository, as it represents my personal exploration of the intriguing world of Etsy, machine learning, and e-commerce trends. If you have any questions or suggestions, please don't hesitate to reach out.
